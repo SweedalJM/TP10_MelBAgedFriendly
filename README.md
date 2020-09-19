@@ -12,8 +12,8 @@
 ## ...
 # Code style
 ## php code
-# Built with
-## WordPress
+# Tech/framework used
+## Built with: WordPress
 # Features
 ## Suggest houses baged on users selected landmarks and tell the distance between the house and landmarks.
 # Code example
@@ -22,9 +22,13 @@
 ## Don’t need to install any other sofeware, it is a website.
 # API reference
 ## ...
-# Test
+# Tests
 ## ...
 # How to use
 ## It's just browsing a website.
+# Contribute
+## ...
+# Credits
+## ...
 # License
 ## ...
