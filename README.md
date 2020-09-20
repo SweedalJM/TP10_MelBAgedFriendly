@@ -6,6 +6,12 @@
 ## The motivation is the problem that The older people from CaLD backgrounds find it challenging to find a suitable home for their conditions due to lack of knowledge in navigating Australian housing system.
 # screenshots
 ## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.39.44%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.40.04%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.40.26%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.40.52%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.41.06%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.41.27%20pm.png);
+
 
 # Build status
 ## ...
