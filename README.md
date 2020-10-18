@@ -1,6 +1,6 @@
-# TP10_MelBAgedFriendly
+# TP10_NaviMelB
 # Project title
-## Title : MelB CALD Aged Friendly 
+## Title : AccessMelbourne 
 ## Our project aims to help old people from CALD backgrounds find a suitable house for their long-term stay.
 # Motivation
 ## The motivation is the problem that The older people from CaLD backgrounds find it challenging to find a suitable home for their conditions due to lack of knowledge in navigating Australian housing system.
@@ -30,7 +30,7 @@
 # Tests
 ## ...
 # How to use
-## It's just browsing a website.
+## It's just browsing a website. The recommended way to use the site is to first browse the homepage, then browse Melbourne City Overview and find houses.
 # Contribute
 ## ...
 # Credits
