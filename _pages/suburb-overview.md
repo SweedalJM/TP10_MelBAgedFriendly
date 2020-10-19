@@ -5,7 +5,7 @@ author: Sweedal
 post_excerpt: ""
 layout: page
 permalink: >
-  https://accessmelbourne.me/suburb-overview/
+  http://accessmelbourne.me/suburb-overview/
 published: true
 post_date: 2020-09-16 09:25:05
 ---
