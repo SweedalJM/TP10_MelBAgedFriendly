@@ -5,11 +5,10 @@
 # Motivation
 ## The motivation is the problem that The older people from CaLD backgrounds find it challenging to find a suitable home for their conditions due to lack of knowledge in navigating Australian housing system.
 # screenshots
-## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-09-19%20at%209.39.44%20pm.png);
 
-## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-18%20at%205.22.27%20pm.png);
-## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-18%20at%205.21.19%20pm.png);
-## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-18%20at%205.20.47%20pm.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-20%20at%2010.46.37%20am.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-20%20at%2010.47.04%20am.png);
+## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-20%20at%2010.47.06%20am.png);
 ## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-18%20at%205.23.34%20pm.png);
 ## ![image text](https://raw.githubusercontent.com/SweedalJM/TP10_MelBAgedFriendly/master/image/Screen%20Shot%202020-10-18%20at%205.24.08%20pm.png);
 
